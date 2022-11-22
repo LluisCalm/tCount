@@ -1,4 +1,4 @@
-# About
+## About
 A simple python program to count the time you spend doing things. You can create events and then count how much time you spend doing that event.
 
 ## How to use it
