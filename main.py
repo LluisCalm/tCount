@@ -114,7 +114,7 @@ print("3. Statistics")
 print("4. Exit")
 
 try:
-    selected = int(input("Select a choice (1,2,3,4): "))
+    selected = int(input("Select an option (1,2,3,4): "))
     while selected < 1 or selected > 4:
         selected =  int(input("Select a correct value (1, 2, 3 or 4): "))
 except Exception:
