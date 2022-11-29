@@ -1,0 +1,9 @@
+name: SAST and publish to docker
+on: push
+jobs:
+  sast:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: AppThreat/sast-scan-action@master
+      with:
+        type: "python"
