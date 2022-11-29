@@ -8,4 +8,4 @@ To run it, i recommend having a folder for the program because it generates a py
 ```
 python3 main.py
 ```
-Then, just follow the program indications (1 to add a new event, 2 for count the time of an event, 3 for statistics and 4 to end).
+Then, just follow the program instructions (1 to add a new event, 2 for count the time of an event, 3 for statistics and 4 to end).
